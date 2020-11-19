@@ -1,5 +1,4 @@
 import { Component, VERSION } from "@angular/core";
-import { BottomBarComponent } from "./bottom-bar/bottom-bar.component";
 
 @Component({
   selector: "bm-app",
